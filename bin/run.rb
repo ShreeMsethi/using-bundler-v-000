@@ -2,4 +2,4 @@ Hashie
 Sinatra
 Octokit
 Pry
-AwesomePrint
+Awesome_Print
