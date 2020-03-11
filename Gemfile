@@ -5,8 +5,9 @@ gem "hashie"
 gem "octokit", '~> 2.0'
 
 git 'https://github.com/awesome-print/awesome_print' do
-  
-gem "awesome_print" git: 'https://github.com/awesome-print/awesome_print'
+  gem 'awesome_print'
+end
+# gem "awesome_print" git: 'https://github.com/awesome-print/awesome_print'
  
 group :development do
 gem "pry"
